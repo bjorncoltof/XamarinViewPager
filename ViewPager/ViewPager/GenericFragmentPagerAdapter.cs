@@ -1,9 +1,10 @@
 using System;
-using Android.Support.V4.App;
+using Android.App;
+using Android.Support.V13.App;
 
 namespace ViewPager
 {
-    public class GenericFragmentPagerAdapter : FragmentPagerAdapter
+  public class GenericFragmentPagerAdapter : Android.Support.V13.App.FragmentPagerAdapter
     {
         private readonly Fragment[] _fragments;
 
