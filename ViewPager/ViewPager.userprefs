@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{74A84F89-E9C8-425C-95DA-F95351AFFDB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewPager/obj/Debug/android/src/md5b7dcd4e140ffcaf3d71e8ab69b399c78/GenericFragmentPagerAdapter.java">
+    <Files>
+      <File FileName="ViewPager/Fragments.cs" Line="12" Column="22" />
+      <File FileName="ViewPager/Properties/AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="ViewPager/GenericFragmentPagerAdapter.cs" Line="13" Column="52" />
+      <File FileName="ViewPager/ViewPagerActivity.cs" Line="1" Column="1" />
+      <File FileName="ViewPager/obj/Debug/android/src/md5b7dcd4e140ffcaf3d71e8ab69b399c78/GenericFragmentPagerAdapter.java" Line="5" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ViewPager" expanded="True">
+            <Node name="ViewPager" expanded="True">
+              <Node name="References" expanded="True" selected="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ViewPager PreferredExecutionTarget="Android.24ea2f52" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
